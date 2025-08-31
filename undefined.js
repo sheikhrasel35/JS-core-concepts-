@@ -33,7 +33,7 @@ const result2 = total2(1);
 const phone = { brand: "samsu", price: 12500 };
 // console.log(phone.color)
 
-const banks = ["nafin", "shimul", "topu"];
+const banks = ["sonali", "city", "islami"];
 // console.log(banks[103])
 delete banks[1];
 console.log(banks[1]);
